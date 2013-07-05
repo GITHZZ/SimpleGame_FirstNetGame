@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7EDDFC7C15326E28003F2AB5 /* GameServer */;
+		activeTarget = 8DD76F620486A84900D96B5E /* GameServer */;
+		codeSenseManager = 7EDDFC9215326E2C003F2AB5 /* Code sense */;
+		executables = (
+			7EDDFC7C15326E28003F2AB5 /* GameServer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					860,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 355735058;
+			PBXWorkspaceStateSaveDate = 355735058;
+		};
+		perUserProjectItems = {
+			7EBB86BF1534161800E65A64 /* PBXTextBookmark */ = 7EBB86BF1534161800E65A64 /* PBXTextBookmark */;
+			7EBB86C21534161800E65A64 /* PBXTextBookmark */ = 7EBB86C21534161800E65A64 /* PBXTextBookmark */;
+			7EBB86D4153416C200E65A64 /* PBXTextBookmark */ = 7EBB86D4153416C200E65A64 /* PBXTextBookmark */;
+			7EBB86D5153416C200E65A64 /* PBXTextBookmark */ = 7EBB86D5153416C200E65A64 /* PBXTextBookmark */;
+			7EBB86F815341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86F815341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86F915341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86F915341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86FA15341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86FA15341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86FB15341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86FB15341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86FC15341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86FC15341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86FD15341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86FD15341B4F00E65A64 /* PBXTextBookmark */;
+			7EBB86FE15341B4F00E65A64 /* PBXTextBookmark */ = 7EBB86FE15341B4F00E65A64 /* PBXTextBookmark */;
+			7EDDFDA415328A46003F2AB5 = 7EDDFDA415328A46003F2AB5 /* PBXBookmark */;
+			7EDDFE48153295FB003F2AB5 = 7EDDFE48153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE49153295FB003F2AB5 = 7EDDFE49153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE4A153295FB003F2AB5 = 7EDDFE4A153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE4B153295FB003F2AB5 = 7EDDFE4B153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE4C153295FB003F2AB5 = 7EDDFE4C153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE4D153295FB003F2AB5 = 7EDDFE4D153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE4E153295FB003F2AB5 = 7EDDFE4E153295FB003F2AB5 /* PBXTextBookmark */;
+			7EDDFE51153295FB003F2AB5 = 7EDDFE51153295FB003F2AB5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7EDDFC9115326E2C003F2AB5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7EBB86BF1534161800E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 125";
+		rLen = 0;
+		rLoc = 2911;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 2632;
+	};
+	7EBB86C21534161800E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 116";
+		rLen = 0;
+		rLoc = 3440;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 2631;
+	};
+	7EBB86D4153416C200E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 135";
+		rLen = 0;
+		rLoc = 3170;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 2542;
+	};
+	7EBB86D5153416C200E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 116";
+		rLen = 0;
+		rLoc = 3440;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 2631;
+	};
+	7EBB86F815341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 100";
+		rLen = 0;
+		rLoc = 2864;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 2474;
+	};
+	7EBB86F915341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676531530233D00F0C93A /* GameServer.h */;
+		name = "GameServer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	7EBB86FA15341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C6E32E1531547900F76A8D /* GameLogic.h */;
+		name = "GameLogic.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	7EBB86FB15341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C6E32F1531547900F76A8D /* GameLogic.cpp */;
+		name = "GameLogic.cpp: 33";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 225;
+	};
+	7EBB86FC15341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 116";
+		rLen = 0;
+		rLoc = 2690;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 40;
+	};
+	7EBB86FD15341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 117";
+		rLen = 0;
+		rLoc = 2760;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 2562;
+	};
+	7EBB86FE15341B4F00E65A64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 116";
+		rLen = 0;
+		rLoc = 3440;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 2631;
+	};
+	7EDDFC7C15326E28003F2AB5 /* GameServer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GameServer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7EDDFC9115326E2C003F2AB5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7EDDFC9215326E2C003F2AB5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7EDDFDA415328A46003F2AB5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+	};
+	7EDDFE48153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675BE1530081F00F0C93A /* MsgDefine.h */;
+		name = "MsgDefine.h: 13";
+		rLen = 14;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 0;
+	};
+	7EDDFE49153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DA15300E1C00F0C93A /* SelectServer.h */;
+		name = "SelectServer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 883;
+		vrLoc = 664;
+	};
+	7EDDFE4A153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C6E32F1531547900F76A8D /* GameLogic.cpp */;
+		name = "GameLogic.cpp: 33";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 203;
+	};
+	7EDDFE4B153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 100";
+		rLen = 0;
+		rLoc = 2864;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 3889;
+	};
+	7EDDFE4C153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676531530233D00F0C93A /* GameServer.h */;
+		name = "GameServer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	7EDDFE4D153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 131";
+		rLen = 0;
+		rLoc = 3045;
+		rType = 0;
+		vrLen = 629;
+		vrLoc = 2676;
+	};
+	7EDDFE4E153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C676541530233D00F0C93A /* GameServer.cpp */;
+		name = "GameServer.cpp: 125";
+		rLen = 0;
+		rLoc = 2911;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 2632;
+	};
+	7EDDFE51153295FB003F2AB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96C675DB15300E1C00F0C93A /* SelectServer.cpp */;
+		name = "SelectServer.cpp: 116";
+		rLen = 0;
+		rLoc = 3440;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 2631;
+	};
+	8DD76F620486A84900D96B5E /* GameServer */ = {
+		activeExec = 0;
+		executables = (
+			7EDDFC7C15326E28003F2AB5 /* GameServer */,
+		);
+	};
+	96C675BE1530081F00F0C93A /* MsgDefine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 1079}}";
+			sepNavSelRange = "{399, 14}";
+			sepNavVisRange = "{0, 837}";
+		};
+	};
+	96C675DA15300E1C00F0C93A /* SelectServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 858}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{664, 883}";
+		};
+	};
+	96C675DB15300E1C00F0C93A /* SelectServer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 2236}}";
+			sepNavSelRange = "{3440, 0}";
+			sepNavVisRange = "{2631, 1523}";
+			sepNavWindowFrame = "{{955, 116}, {1009, 942}}";
+		};
+	};
+	96C676531530233D00F0C93A /* GameServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 609}";
+		};
+	};
+	96C676541530233D00F0C93A /* GameServer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 1833}}";
+			sepNavSelRange = "{2760, 0}";
+			sepNavVisRange = "{2562, 721}";
+		};
+	};
+	96C6E32E1531547900F76A8D /* GameLogic.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 470}";
+		};
+	};
+	96C6E32F1531547900F76A8D /* GameLogic.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 676}}";
+			sepNavSelRange = "{507, 0}";
+			sepNavVisRange = "{225, 545}";
+		};
+	};
+}
